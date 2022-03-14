@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/github.io/newrobofriends/static/css/main.695dc745.css",
+    "main.js": "/github.io/newrobofriends/static/js/main.c1eac896.js",
+    "static/js/787.da7102ed.chunk.js": "/github.io/newrobofriends/static/js/787.da7102ed.chunk.js",
+    "index.html": "/github.io/newrobofriends/index.html",
+    "main.695dc745.css.map": "/github.io/newrobofriends/static/css/main.695dc745.css.map",
+    "main.c1eac896.js.map": "/github.io/newrobofriends/static/js/main.c1eac896.js.map",
+    "787.da7102ed.chunk.js.map": "/github.io/newrobofriends/static/js/787.da7102ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.695dc745.css",
+    "static/js/main.c1eac896.js"
+  ]
+}
